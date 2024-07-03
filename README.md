@@ -20,7 +20,7 @@ Welcome to the NLP Revision Plan! This repository outlines a comprehensive plan 
 - **Tasks**:
   - Read about the history and applications of NLP.
   - Watch introductory videos on NLP.
-- **Resources**: [Introduction to NLP](https://example.com/intro-to-nlp)
+- **Resources**: 
 - **LinkedIn Post Idea**: "Starting my journey to master NLP! Diving into the basics and understanding its vast applications in various industries. #NLP #MachineLearning"
 
 ### Day 3-4: Text Preprocessing
@@ -176,6 +176,9 @@ Welcome to the NLP Revision Plan! This repository outlines a comprehensive plan 
 - [OpenAI GPT-3 Documentation](https://beta.openai.com/docs/)
 - [Gensim Documentation](https://radimrehurek.com/gensim/)
 - [LangChain Documentation](https://langchain.readthedocs.io/)
+
+**Books and Articles**
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any suggestions or improvements.
