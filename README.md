@@ -16,7 +16,7 @@ Welcome to the NLP Revision Plan! This repository outlines a comprehensive plan 
 
 ## Week 1: Introduction to NLP
 ### Day 1-2: Basics of NLP
-- **Objective**: Study the fundamental concepts of NLP: What is NLP, history, and applications.
+- **Objective**: Study the fundamental concepts of NLP: What is NLP, its history, and applications?
 - **Tasks**:
   - Read about the history and applications of NLP.
   - Watch introductory videos on NLP.
@@ -24,7 +24,7 @@ Welcome to the NLP Revision Plan! This repository outlines a comprehensive plan 
 - **LinkedIn Post Idea**: "Starting my journey to master NLP! Diving into the basics and understanding its vast applications in various industries. #NLP #MachineLearning"
 
 ### Day 3-4: Text Preprocessing
-- **Objective**: Learn about tokenization, stemming, lemmatization, stopword removal.
+- **Objective**: Learn about tokenization, stemming, lemmatization, and stopword removal.
 - **Tasks**:
   - Implement tokenization and lemmatization in Python.
   - Practice stopword removal using NLTK or SpaCy.
@@ -102,12 +102,12 @@ Welcome to the NLP Revision Plan! This repository outlines a comprehensive plan 
 - **Objective**: Understand the basics of machine translation and implement simple models.
 - **Tasks**:
   - Implement a basic machine translation model using Seq2Seq.
-  - Explore advanced models like Transformer for translation.
+  - Explore advanced models like Transformers for translation.
 - **Resources**: [Machine Translation](https://example.com/machine-translation)
 - **LinkedIn Post Idea**: "Exploring machine translation techniques to break language barriers. It's amazing to see how far we've come with translation technology! #MachineTranslation #NLP"
 
 ### Day 5-6: Topic Modeling
-- **Objective**: Study LDA, LSI, and implement topic modeling.
+- **Objective**: Study LDA, and LSI, and implement topic modeling.
 - **Tasks**:
   - Implement LDA and LSI using Gensim.
   - Analyze topics in a large text corpus.
@@ -167,7 +167,7 @@ Welcome to the NLP Revision Plan! This repository outlines a comprehensive plan 
 2. **Use visuals**: Include charts, code snippets, and screenshots to make your posts engaging.
 3. **Share insights**: Explain what you learned or found interesting.
 4. **Engage with your network**: Ask questions or seek feedback to encourage interaction.
-5. **Consistent hashtags**: Use relevant hashtags like #NLP, #MachineLearning, #DataScience, #LLMs, #LangChain to reach a wider audience.
+5. **Consistent hashtags**: Use relevant hashtags like #NLP, #MachineLearning, #DataScience, #LLMs, and #LangChain to reach a wider audience.
 
 ## Resources
 - [NLTK Documentation](https://www.nltk.org)
